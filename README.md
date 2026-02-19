@@ -13,16 +13,22 @@
 
 ---
 
-## 🚓 About Me
+## ✨ About Me
 
-I'm currently transitioning into the world of **Data Analytics**, developing strong skills in:
+I’m an aspiring **Data Analyst** currently completing a **Master in Data Analytics & AI at EPICODE Institute of Technology**.
 
-- 📊 Business Intelligence & KPI Dashboards  
-- 🐍 Data Cleaning & Analysis with Python  
-- 🛢 SQL Querying & Relational Databases  
-- 📈 Data Storytelling with Power BI  
+I’m passionate about working with data to uncover patterns, generate insights, and support business decision-making through clear reporting and visualization.
 
-My goal is to start my career as a **Junior Data Analyst**, working on real-world projects and building a strong analytics portfolio.
+My professional background includes experience in administrative and operational environments, where I developed strong attention to detail, organization skills, and a structured approach to managing information.
+
+Today, I’m focused on building strong technical expertise in:
+
+- Data cleaning, preparation, and transformation  
+- Exploratory Data Analysis (EDA) using Python  
+- Writing efficient SQL queries for real-world datasets  
+- Creating interactive dashboards and KPI reports with Power BI  
+
+I’m currently building a portfolio of analytics projects and I’m eager to start my professional journey as a **Junior Data Analyst**, contributing to data-driven teams and continuous learning.
 
 ---
 
@@ -34,9 +40,9 @@ My goal is to start my career as a **Junior Data Analyst**, working on real-worl
 Main topics include:
 
 - Advanced Excel & Data Preparation  
-- SQL (JOIN, GROUP BY, Subqueries)  
-- Python (Pandas, NumPy, Matplotlib)  
-- Dashboards with Power BI & Looker Studio  
+- Relational Databases & SQL (JOIN, GROUP BY, Subqueries)  
+- Python for Data Analysis (Pandas, NumPy, Matplotlib)  
+- Data Visualization with Power BI & Looker Studio  
 - Capstone Project + AI Tools (ChatGPT, GitHub Copilot)
 
 ---
@@ -66,10 +72,18 @@ Main topics include:
 
 🚧 Portfolio currently in progress. Soon you will find:
 
-- 📊 Power BI Sales Dashboards  
-- 🐍 Python Data Cleaning & EDA Notebooks  
-- 🛢 SQL Case Studies  
-- 🎓 EPICODE Capstone Project  
+- 📊 Power BI Sales & KPI Dashboards  
+- 🐍 Python Data Cleaning & Exploratory Analysis Projects  
+- 🛢 SQL Case Studies and Database Exercises  
+- 🎓 EPICODE Final Capstone Project  
+
+---
+
+## 🎯 Current Goals
+
+- Build a strong professional portfolio in Data Analytics  
+- Improve skills in Python, SQL, and Business Intelligence  
+- Start my career as a Junior Data Analyst in a data-driven company  
 
 ---
 
@@ -81,5 +95,6 @@ Main topics include:
 
 ---
 
-⭐ Thanks for visiting my profile — feel free to follow my journey into Data Analytics!
+⭐ Thanks for visiting my profile — feel free to explore my repositories and follow my journey into Data Analytics!
+
 
