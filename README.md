@@ -115,7 +115,7 @@ Main topics include:
 🔗 LinkedIn: [Giuseppe Massaro](https://www.linkedin.com/in/giuseppe-massaro-414597256/)  
 💻 GitHub: [speppus](https://github.com/speppus)  
 📧 Email: massaro.98@hotmail.it  
-
+ 
 ---
 
 ⭐ Thanks for visiting my profile — feel free to explore my repositories and follow my journey into Data Analytics!
