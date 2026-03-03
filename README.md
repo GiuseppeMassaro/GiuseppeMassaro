@@ -92,14 +92,28 @@ Main topics include:
 ---
 
 ## 📌 Featured Projects
+## 🚗 Car Sales Performance Dashboard  
+**Capstone Project – Python & Power BI**
 
-🚧 Portfolio currently in progress. Soon you will find:
+End-to-end business intelligence project focused on sales performance, inventory risk, and strategic decision-making in the automotive sector.
 
-- 📊 Power BI Sales & KPI Dashboards  
-- 🐍 Python Data Cleaning & Exploratory Analysis Projects  
-- 🛢 SQL Case Studies and Database Exercises  
-- 🎓 EPICODE Final Capstone Project  
+### 🔍 Project Highlights
 
+- Data cleaning & transformation with Python  
+- SQL data querying & aggregation  
+- Interactive Power BI dashboards  
+- Advanced KPI development using DAX  
+- Inventory risk & stock pressure analysis  
+- Strategic performance matrix  
+
+### 📊 Key Insights
+
+- +38.7% Revenue Growth  
+- Revenue concentration in premium segments  
+- Uneven stock pressure across brands  
+- Data-driven inventory optimization strategy  
+
+🔗 Repository: *(inserisci qui il link del repo del capstone)*
 ---
 
 ## 🎯 Current Goals
