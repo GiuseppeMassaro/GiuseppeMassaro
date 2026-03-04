@@ -113,7 +113,7 @@ End-to-end business intelligence project focused on sales performance, inventory
 - Uneven stock pressure across brands  
 - Data-driven inventory optimization strategy  
 
-🔗 Repository: *(inserisci qui il link del repo del capstone)*
+🔗 Repository:https://github.com/speppus/car-sales-performance-dashboard
 ---
 
 ## 🎯 Current Goals
