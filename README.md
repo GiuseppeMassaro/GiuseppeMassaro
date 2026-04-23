@@ -34,13 +34,16 @@ I’m an aspiring **Data Analyst** currently completing a **Master in Data Analy
 
 I’m focused on transforming raw data into **clear insights, interactive dashboards, and business-oriented decisions**.
 
-My background helped me build a strong mindset for:
-- analytical thinking
-- attention to detail
-- structured problem solving
-- data-driven decision making
+My goal is to use data to support smarter strategies, uncover patterns, and help companies make more informed decisions.
 
-I’m currently building real-world projects in **Python, SQL, and Power BI** and looking for opportunities to start my journey as a **Junior Data Analyst**.
+I am currently building practical projects in **Python, SQL, and Power BI**, while strengthening my skills in:
+- data cleaning and transformation
+- exploratory data analysis
+- dashboard development
+- KPI monitoring
+- business reporting
+
+💡 I’m actively looking for a **Junior Data Analyst** opportunity where I can contribute, grow, and keep learning through real-world challenges.
 
 ---
 
@@ -94,22 +97,50 @@ I’m currently building real-world projects in **Python, SQL, and Power BI** an
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects Portfolio
 
-### 🚗 Car Sales Performance Dashboard
-**Python · SQL · Power BI**
+Here are some of the projects I’ve developed to apply data analytics techniques to real-world business scenarios.
 
-End-to-end business intelligence project focused on:
-- sales performance analysis
-- inventory risk monitoring
-- KPI development
-- strategic decision-making
+---
+
+### 📡 Telco Customer Churn Dashboard  
+**Power BI · DAX · Data Modeling**
+
+Customer churn analysis project focused on identifying the main drivers of customer attrition in the telecom industry.
+
+**What I did:**
+- Built an interactive Power BI dashboard with analytical views on churn behavior
+- Cleaned and transformed data using Power Query
+- Created KPIs such as churn rate, customer retention, and customer profile metrics
+- Analyzed customer behavior across contracts, services, tenure, and payment methods
 
 **Key insights:**
-- +38.7% Revenue Growth
-- premium segment revenue concentration
-- uneven stock pressure across brands
-- data-driven inventory optimization opportunities
+- Month-to-month customers showed a higher churn tendency
+- Contract type and payment behavior had a strong impact on retention
+- Tenure and total charges helped highlight churn-risk patterns
+
+<a href="https://github.com/GiuseppeMassaro/telco-churn-powerbi-dashboard">
+  <img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🚗 Car Sales Performance Dashboard  
+**Python · SQL · Power BI**
+
+End-to-end business intelligence project focused on sales performance, inventory monitoring, and strategic decision-making.
+
+**What I did:**
+- Built a complete ETL workflow using Python and SQL
+- Cleaned and structured sales data for analysis
+- Developed an interactive Power BI dashboard for business monitoring
+- Defined KPIs related to revenue, stock pressure, and brand performance
+
+**Key insights:**
+- Identified **+38.7% revenue growth**
+- Highlighted strong revenue concentration in the premium segment
+- Detected uneven stock pressure across brands
+- Revealed inventory optimization opportunities through data-driven analysis
 
 <a href="https://github.com/GiuseppeMassaro/car-sales-performance-dashboard">
   <img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -117,14 +148,43 @@ End-to-end business intelligence project focused on:
 
 ---
 
-### 🎬 TMDB Movies Power BI Dashboard
+### 💳 Fintech Financial Dashboard  
+**Power BI · SQL · Data Analysis**
+
+Financial analytics project designed to monitor business performance and support decision-making through key financial indicators.
+
+**What I did:**
+- Built a dynamic financial dashboard in Power BI
+- Analyzed revenue streams and financial performance trends
+- Developed KPI views to improve performance visibility
+- Structured data to support clearer business reporting
+
+**Key insights:**
+- Highlighted revenue concentration patterns across business areas
+- Improved visibility on financial trends and performance drivers
+- Supported data-driven monitoring through clear KPI tracking
+
+<a href="https://github.com/GiuseppeMassaro/Fintech-Financial-Dashboard">
+  <img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🎬 TMDB Movies Power BI Dashboard  
 **SQL · Power BI · Data Visualization**
 
-Analytics project built on TMDB dataset with focus on:
-- movie profitability
-- revenue vs budget analysis
-- genre and language trends
-- dashboard storytelling and insights
+Analytics project built on the TMDB dataset with a focus on movie profitability, performance trends, and dashboard storytelling.
+
+**What I did:**
+- Queried and explored movie data using SQL
+- Analyzed budget vs revenue relationships
+- Identified genre and language performance trends
+- Built a Power BI dashboard to communicate insights clearly
+
+**Key insights:**
+- High-budget movies do not always generate the highest profitability
+- Some genres consistently performed better than others
+- Revenue distribution showed strong concentration across a limited number of titles
 
 <a href="https://github.com/GiuseppeMassaro/TMDB-Movies-PowerBI-Dashboard">
   <img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -138,6 +198,16 @@ Analytics project built on TMDB dataset with focus on:
 - Improve my skills in Python, SQL, and Power BI
 - Join a data-driven company as a Junior Data Analyst
 - Keep learning through practical projects and real datasets
+
+---
+
+## 💼 What I Can Bring to a Company
+
+- A structured and analytical approach to problem solving
+- Strong attention to detail and data quality
+- The ability to translate data into clear business insights
+- A practical mindset focused on reporting, KPIs, and decision support
+- Motivation to grow quickly in a real business environment
 
 ---
 
@@ -195,5 +265,4 @@ Analytics project built on TMDB dataset with focus on:
 Feel free to explore my repositories and follow my journey in Data Analytics.
 
 </div>
-
 
