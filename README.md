@@ -32,29 +32,25 @@
 
 I’m an aspiring **Data Analyst** currently completing a **Master in Data Analytics & AI at EPICODE**.
 
-I’m focused on transforming raw data into **clear insights, interactive dashboards, and business-oriented decisions**.
+I specialize in transforming raw data into **actionable insights, dashboards, and business-driven decisions**.
 
-My goal is to use data to support smarter strategies, uncover patterns, and help companies make more informed decisions.
+I approach problems with a structured and analytical mindset, focusing on:
+- extracting value from data  
+- identifying patterns and trends  
+- supporting decision-making through KPIs and reporting  
 
-I am currently building practical projects in **Python, SQL, and Power BI**, while strengthening my skills in:
-- data cleaning and transformation
-- exploratory data analysis
-- dashboard development
-- KPI monitoring
-- business reporting
-
-💡 I’m actively looking for a **Junior Data Analyst** opportunity where I can contribute, grow, and keep learning through real-world challenges.
+💡 I am actively looking for a **Junior Data Analyst role**, where I can contribute to real business problems and continue growing through hands-on experience.
 
 ---
 
 ## 🔍 What I Do
 
-- Data cleaning and transformation
-- Exploratory Data Analysis (EDA)
-- SQL querying and aggregation
-- Dashboard development with Power BI
-- KPI analysis and business reporting
-- Data storytelling through visualization
+- Data cleaning and transformation  
+- Exploratory Data Analysis (EDA)  
+- SQL querying and aggregation  
+- Dashboard development with Power BI  
+- KPI analysis and business reporting  
+- Data storytelling through visualization  
 
 ---
 
@@ -82,18 +78,24 @@ I am currently building practical projects in **Python, SQL, and Power BI**, whi
 
 ---
 
+## 🧠 Skills in Action
+
+Here’s how I apply my technical skills to real-world scenarios:
+
+- **Python (Pandas, NumPy)** → Data cleaning, transformation, and EDA  
+- **SQL** → Data extraction, joins, aggregations, and performance queries  
+- **Power BI** → Interactive dashboards, KPI tracking, and storytelling  
+- **Excel (Power Query)** → Rapid data preparation and transformation for quick business analysis  
+- **Data Analysis** → Identifying trends, patterns, and business insights  
+
+💡 I focus on transforming raw data into actionable insights that drive business decisions.
+
+---
+
 ## 🎓 Education
 
 **Master in Data Analytics & AI – EPICODE Institute of Technology**  
-6 months · 250+ hours · Online
-
-### Main topics:
-- Advanced Excel
-- Data preparation and cleaning
-- SQL and relational databases
-- Python for data analysis
-- Power BI and dashboard design
-- Capstone projects and AI tools
+6 months · 250+ hours · Online  
 
 ---
 
@@ -106,18 +108,18 @@ Here are some of the projects I’ve developed to apply data analytics technique
 ### 📡 Telco Customer Churn Dashboard  
 **Power BI · DAX · Data Modeling**
 
-Customer churn analysis project focused on identifying the main drivers of customer attrition in the telecom industry.
+Customer churn analysis project focused on identifying key drivers of customer attrition.
 
 **What I did:**
-- Built an interactive Power BI dashboard with analytical views on churn behavior
-- Cleaned and transformed data using Power Query
-- Created KPIs such as churn rate, customer retention, and customer profile metrics
-- Analyzed customer behavior across contracts, services, tenure, and payment methods
+- Built interactive dashboard in Power BI  
+- Cleaned and transformed data with Power Query  
+- Created KPIs for churn rate and retention  
+- Analyzed customer behavior across contracts and services  
 
 **Key insights:**
-- Month-to-month customers showed a higher churn tendency
-- Contract type and payment behavior had a strong impact on retention
-- Tenure and total charges helped highlight churn-risk patterns
+- Month-to-month contracts show higher churn  
+- Payment methods impact retention  
+- Tenure is a strong churn indicator  
 
 <a href="https://github.com/GiuseppeMassaro/telco-churn-powerbi-dashboard">
   <img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -128,19 +130,17 @@ Customer churn analysis project focused on identifying the main drivers of custo
 ### 🚗 Car Sales Performance Dashboard  
 **Python · SQL · Power BI**
 
-End-to-end business intelligence project focused on sales performance, inventory monitoring, and strategic decision-making.
+Business intelligence project focused on sales and inventory performance.
 
 **What I did:**
-- Built a complete ETL workflow using Python and SQL
-- Cleaned and structured sales data for analysis
-- Developed an interactive Power BI dashboard for business monitoring
-- Defined KPIs related to revenue, stock pressure, and brand performance
+- Built ETL pipeline with Python and SQL  
+- Developed Power BI dashboard  
+- Created KPIs for revenue and stock  
 
 **Key insights:**
-- Identified **+38.7% revenue growth**
-- Highlighted strong revenue concentration in the premium segment
-- Detected uneven stock pressure across brands
-- Revealed inventory optimization opportunities through data-driven analysis
+- +38.7% revenue growth  
+- Premium segment drives revenue  
+- Stock imbalance across brands  
 
 <a href="https://github.com/GiuseppeMassaro/car-sales-performance-dashboard">
   <img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -149,20 +149,18 @@ End-to-end business intelligence project focused on sales performance, inventory
 ---
 
 ### 💳 Fintech Financial Dashboard  
-**Power BI · SQL · Data Analysis**
+**Power BI · SQL**
 
-Financial analytics project designed to monitor business performance and support decision-making through key financial indicators.
+Financial dashboard for performance monitoring.
 
 **What I did:**
-- Built a dynamic financial dashboard in Power BI
-- Analyzed revenue streams and financial performance trends
-- Developed KPI views to improve performance visibility
-- Structured data to support clearer business reporting
+- Built KPI dashboard  
+- Analyzed revenue trends  
+- Created business performance views  
 
 **Key insights:**
-- Highlighted revenue concentration patterns across business areas
-- Improved visibility on financial trends and performance drivers
-- Supported data-driven monitoring through clear KPI tracking
+- Revenue concentration patterns  
+- Clear performance tracking through KPIs  
 
 <a href="https://github.com/GiuseppeMassaro/Fintech-Financial-Dashboard">
   <img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -170,21 +168,19 @@ Financial analytics project designed to monitor business performance and support
 
 ---
 
-### 🎬 TMDB Movies Power BI Dashboard  
-**SQL · Power BI · Data Visualization**
+### 🎬 TMDB Movies Dashboard  
+**SQL · Power BI**
 
-Analytics project built on the TMDB dataset with a focus on movie profitability, performance trends, and dashboard storytelling.
+Movie analytics project focused on profitability.
 
 **What I did:**
-- Queried and explored movie data using SQL
-- Analyzed budget vs revenue relationships
-- Identified genre and language performance trends
-- Built a Power BI dashboard to communicate insights clearly
+- Analyzed revenue vs budget  
+- Built dashboard for insights  
+- Identified trends by genre  
 
 **Key insights:**
-- High-budget movies do not always generate the highest profitability
-- Some genres consistently performed better than others
-- Revenue distribution showed strong concentration across a limited number of titles
+- Budget ≠ profitability  
+- Some genres outperform consistently  
 
 <a href="https://github.com/GiuseppeMassaro/TMDB-Movies-PowerBI-Dashboard">
   <img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -194,35 +190,19 @@ Analytics project built on the TMDB dataset with a focus on movie profitability,
 
 ## 🎯 Current Goals
 
-- Build a strong and professional data analytics portfolio
-- Improve my skills in Python, SQL, and Power BI
-- Join a data-driven company as a Junior Data Analyst
-- Keep learning through practical projects and real datasets
+- Build a strong data analytics portfolio  
+- Improve Python, SQL, and Power BI skills  
+- Start a career as a Junior Data Analyst  
 
 ---
 
 ## 💼 What I Can Bring to a Company
 
-- A structured and analytical approach to problem solving
-- Strong attention to detail and data quality
-- The ability to translate data into clear business insights
-- A practical mindset focused on reporting, KPIs, and decision support
-- Motivation to grow quickly in a real business environment
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuseppeMassaro&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeMassaro&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeMassaro&theme=tokyonight&hide_border=true" />
-
-</div>
+- Structured problem-solving mindset  
+- Strong attention to data quality  
+- Ability to turn data into insights  
+- Business-oriented thinking  
+- Motivation to grow quickly  
 
 ---
 
@@ -265,4 +245,3 @@ Analytics project built on the TMDB dataset with a focus on movie profitability,
 Feel free to explore my repositories and follow my journey in Data Analytics.
 
 </div>
-
